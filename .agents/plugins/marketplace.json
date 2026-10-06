@@ -1,0 +1,20 @@
+{
+  "name": "saasyass",
+  "interface": {
+    "displayName": "Saasyass Brain"
+  },
+  "plugins": [
+    {
+      "name": "saasyass-knowledge",
+      "source": {
+        "source": "local",
+        "path": "./plugins/saasyass-knowledge"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

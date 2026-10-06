@@ -1,0 +1,197 @@
+{
+  "concepts/ABO vs CBO.md": {
+    "mtime": 1791267821.0,
+    "ast_hash": "39a3d4df88c54c062d90081b3a4f5219",
+    "semantic_hash": "39a3d4df88c54c062d90081b3a4f5219"
+  },
+  "concepts/Cancellation flow.md": {
+    "mtime": 1791267821.0,
+    "ast_hash": "7fc4056e00819be35369b120f1081815",
+    "semantic_hash": "7fc4056e00819be35369b120f1081815"
+  },
+  "concepts/Churn win-back flows.md": {
+    "mtime": 1791267821.0,
+    "ast_hash": "103cb8d9545370b7c9a7fadb8516735f",
+    "semantic_hash": "103cb8d9545370b7c9a7fadb8516735f"
+  },
+  "concepts/Comment-gated resources.md": {
+    "mtime": 1791267839.0,
+    "ast_hash": "1a57bd0b1fc082eccf25f46837a9e058",
+    "semantic_hash": "1a57bd0b1fc082eccf25f46837a9e058"
+  },
+  "concepts/Conversion signal quality.md": {
+    "mtime": 1791267821.0,
+    "ast_hash": "2418fbdaa16277ff3ba3092646929923",
+    "semantic_hash": "2418fbdaa16277ff3ba3092646929923"
+  },
+  "concepts/Creative as targeting.md": {
+    "mtime": 1791267821.0,
+    "ast_hash": "fe41a2238366306509a8ee166de74160",
+    "semantic_hash": "fe41a2238366306509a8ee166de74160"
+  },
+  "concepts/Demo funnel six levels.md": {
+    "mtime": 1791267821.0,
+    "ast_hash": "799ab6a7059aeb2609b9531584cc9a04",
+    "semantic_hash": "799ab6a7059aeb2609b9531584cc9a04"
+  },
+  "concepts/Existing customer exclusion.md": {
+    "mtime": 1791267821.0,
+    "ast_hash": "a56a2f6e0e8b1ae624df9f82362d9f10",
+    "semantic_hash": "a56a2f6e0e8b1ae624df9f82362d9f10"
+  },
+  "concepts/Hammer them retargeting.md": {
+    "mtime": 1791267821.0,
+    "ast_hash": "da790103a5dce4df9505cbd0427d0349",
+    "semantic_hash": "da790103a5dce4df9505cbd0427d0349"
+  },
+  "concepts/Market vote positioning.md": {
+    "mtime": 1791267821.0,
+    "ast_hash": "2944e1e81c5fff921b98bd0081dad971",
+    "semantic_hash": "2944e1e81c5fff921b98bd0081dad971"
+  },
+  "concepts/Meta account structure.md": {
+    "mtime": 1791267821.0,
+    "ast_hash": "4dcd0b18dc835f25b561e8b3a0257571",
+    "semantic_hash": "4dcd0b18dc835f25b561e8b3a0257571"
+  },
+  "concepts/SaaS ad tier list.md": {
+    "mtime": 1791267821.0,
+    "ast_hash": "6090de54cca94c2c5781dd47c2c21e2b",
+    "semantic_hash": "6090de54cca94c2c5781dd47c2c21e2b"
+  },
+  "concepts/Swarm strategy.md": {
+    "mtime": 1791267821.0,
+    "ast_hash": "16e300cb43f8b90455ef8cdaa6054d28",
+    "semantic_hash": "16e300cb43f8b90455ef8cdaa6054d28"
+  },
+  "concepts/Trial onboarding flow.md": {
+    "mtime": 1791267821.0,
+    "ast_hash": "015c03a9e5b991b84da18461bbfe3807",
+    "semantic_hash": "015c03a9e5b991b84da18461bbfe3807"
+  },
+  "concepts/Unit economics calculator.md": {
+    "mtime": 1791267821.0,
+    "ast_hash": "3de5dcc34d6bb3adb35df214f113f749",
+    "semantic_hash": "3de5dcc34d6bb3adb35df214f113f749"
+  },
+  "concepts/Video sales letter.md": {
+    "mtime": 1791267821.0,
+    "ast_hash": "af392bee800b8540c933bdfaefe54378",
+    "semantic_hash": "af392bee800b8540c933bdfaefe54378"
+  },
+  "foundations/glossary.md": {
+    "mtime": 1791267839.0,
+    "ast_hash": "eee4d160f7613b59e8c0a61da631b20d",
+    "semantic_hash": "eee4d160f7613b59e8c0a61da631b20d"
+  },
+  "foundations/playbook.md": {
+    "mtime": 1791267839.0,
+    "ast_hash": "71bd8c7ea13f6ad28c91df995bb1f6ee",
+    "semantic_hash": "71bd8c7ea13f6ad28c91df995bb1f6ee"
+  },
+  "index.md": {
+    "mtime": 1791267839.0,
+    "ast_hash": "212ebca50b0149498ba14a2f0dafd150",
+    "semantic_hash": "212ebca50b0149498ba14a2f0dafd150"
+  },
+  "sources/Saasyass - ABO vs CBO.md": {
+    "mtime": 1791267764.0,
+    "ast_hash": "21601985890589a8d981dfe003ec5320",
+    "semantic_hash": "21601985890589a8d981dfe003ec5320"
+  },
+  "sources/Saasyass - Account Structure Map.md": {
+    "mtime": 1791267764.0,
+    "ast_hash": "860f7b11f8ba8007d34026e807c1d1ff",
+    "semantic_hash": "860f7b11f8ba8007d34026e807c1d1ff"
+  },
+  "sources/Saasyass - Andromeda Creative Targeting.md": {
+    "mtime": 1791267764.0,
+    "ast_hash": "6c7b9cf3a6ac18d036b84e6740afe85f",
+    "semantic_hash": "6c7b9cf3a6ac18d036b84e6740afe85f"
+  },
+  "sources/Saasyass - Best Ad Shows To Existing Customers.md": {
+    "mtime": 1791267764.0,
+    "ast_hash": "34aac65af980faddfe4964de29f6482f",
+    "semantic_hash": "34aac65af980faddfe4964de29f6482f"
+  },
+  "sources/Saasyass - CAC LTV Payback Calculator.md": {
+    "mtime": 1791267764.0,
+    "ast_hash": "831cb9f9c21598df334bee85175933cc",
+    "semantic_hash": "831cb9f9c21598df334bee85175933cc"
+  },
+  "sources/Saasyass - Cancellation Flow.md": {
+    "mtime": 1791267764.0,
+    "ast_hash": "da5f56d7784bea4b4d81a157a4bcf19b",
+    "semantic_hash": "da5f56d7784bea4b4d81a157a4bcf19b"
+  },
+  "sources/Saasyass - Churn Email Flows.md": {
+    "mtime": 1791267764.0,
+    "ast_hash": "6d75be39e17643803a13c38d71835f35",
+    "semantic_hash": "6d75be39e17643803a13c38d71835f35"
+  },
+  "sources/Saasyass - Free Trial Six-Level Funnel.md": {
+    "mtime": 1791267764.0,
+    "ast_hash": "11bdb5071fa4ef580e2f3c49c831fbbb",
+    "semantic_hash": "11bdb5071fa4ef580e2f3c49c831fbbb"
+  },
+  "sources/Saasyass - Hammer Them Strategy.md": {
+    "mtime": 1791267764.0,
+    "ast_hash": "73b42c1bab7db3468de96319318bb5df",
+    "semantic_hash": "73b42c1bab7db3468de96319318bb5df"
+  },
+  "sources/Saasyass - Let The Market Vote.md": {
+    "mtime": 1791267764.0,
+    "ast_hash": "d2625d75d9c889d8e73d2f780a496917",
+    "semantic_hash": "d2625d75d9c889d8e73d2f780a496917"
+  },
+  "sources/Saasyass - Max Cost Per Call Calculator.md": {
+    "mtime": 1791267764.0,
+    "ast_hash": "5b348b682dc0b7e806a69a2eac59377f",
+    "semantic_hash": "5b348b682dc0b7e806a69a2eac59377f"
+  },
+  "sources/Saasyass - Onboarding Email Flow Doc.md": {
+    "mtime": 1791267764.0,
+    "ast_hash": "c656afb5107f79ed215ff0aff40e7db1",
+    "semantic_hash": "c656afb5107f79ed215ff0aff40e7db1"
+  },
+  "sources/Saasyass - Pixel Blind Conversions API.md": {
+    "mtime": 1791267764.0,
+    "ast_hash": "c561326a9ce939a4de8c05848922297b",
+    "semantic_hash": "c561326a9ce939a4de8c05848922297b"
+  },
+  "sources/Saasyass - SaaS Ad Tier List.md": {
+    "mtime": 1791267764.0,
+    "ast_hash": "1a5a3f6d64af58f28675900ad8763c6c",
+    "semantic_hash": "1a5a3f6d64af58f28675900ad8763c6c"
+  },
+  "sources/Saasyass - Six-Level Demo Funnel.md": {
+    "mtime": 1791267764.0,
+    "ast_hash": "2683e2a476668de1b6b089a75f4fc30b",
+    "semantic_hash": "2683e2a476668de1b6b089a75f4fc30b"
+  },
+  "sources/Saasyass - Starving The Algorithm.md": {
+    "mtime": 1791267764.0,
+    "ast_hash": "3d165898b6b30d2a821746a124a2d157",
+    "semantic_hash": "3d165898b6b30d2a821746a124a2d157"
+  },
+  "sources/Saasyass - Swarm Strategy.md": {
+    "mtime": 1791267764.0,
+    "ast_hash": "d25e5bf2f7e64512900626ab7a56401e",
+    "semantic_hash": "d25e5bf2f7e64512900626ab7a56401e"
+  },
+  "sources/Saasyass - Trial Onboarding Emails.md": {
+    "mtime": 1791267764.0,
+    "ast_hash": "653cd6d70970c3f94d88b91ec30cdad0",
+    "semantic_hash": "653cd6d70970c3f94d88b91ec30cdad0"
+  },
+  "sources/Saasyass - VSL For B2B SaaS.md": {
+    "mtime": 1791267764.0,
+    "ast_hash": "19166f561a35b9583b27c7b1046ae907",
+    "semantic_hash": "19166f561a35b9583b27c7b1046ae907"
+  },
+  "sources/Source index.md": {
+    "mtime": 1791267764.0,
+    "ast_hash": "dc965353e3b4bf6bbfb04d4df66a6237",
+    "semantic_hash": "dc965353e3b4bf6bbfb04d4df66a6237"
+  }
+}
