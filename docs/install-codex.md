@@ -6,7 +6,7 @@ Catalog: `.agents/plugins/marketplace.json`. Same plugin folder as Claude and Gr
 
 ```bash
 codex plugin marketplace add /absolute/path/to/saasyass-brain
-# or, once published: codex plugin marketplace add <owner>/saasyass-brain
+codex plugin marketplace add samnguyen80/saasyass-brain
 ```
 
 ## 2. Install

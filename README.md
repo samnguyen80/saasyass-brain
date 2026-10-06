@@ -18,16 +18,16 @@ Unofficial teaching plugin for Instagram creator [@saasyass](https://www.instagr
 
 ```
 # Claude Code
-/plugin marketplace add https://github.com/<owner>/saasyass-brain.git
+/plugin marketplace add https://github.com/samnguyen80/saasyass-brain.git
 /plugin install saasyass-knowledge@saasyass
 ```
 
 ```bash
 # Codex
-codex plugin marketplace add <owner>/saasyass-brain
+codex plugin marketplace add samnguyen80/saasyass-brain
 codex plugin add saasyass-knowledge@saasyass
 # Grok
-grok plugin marketplace add <owner>/saasyass-brain
+grok plugin marketplace add samnguyen80/saasyass-brain
 grok plugin install saasyass-knowledge --trust
 ```
 

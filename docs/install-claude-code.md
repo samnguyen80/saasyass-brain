@@ -9,7 +9,7 @@ After install: **`/teach-saasyass`** (classroom) or **`/saasyass`** (router).
 ## 1. Add the marketplace
 
 ```
-/plugin marketplace add https://github.com/<owner>/saasyass-brain.git
+/plugin marketplace add https://github.com/samnguyen80/saasyass-brain.git
 ```
 
 **The `.git` suffix is required.** Without it, Claude Code treats the URL as a file to HTTP GET. (No remote exists yet; use a local path until you publish.)
